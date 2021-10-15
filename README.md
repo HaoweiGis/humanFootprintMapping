@@ -1,4 +1,4 @@
-# SGD-SM
+# Human Footprint Mapping
 * A global record of annual terrestrial Human Footprint dataset from 2000 to 2018.
 
 * The annual records of the global Human Footprint from 2000 to 2018 can be accessed freely at the figshare repository (https://doi.org/10.6084/m9.figshare.16571064). All Human Footprint were mapped using the Mollweide equal-area projection at 1km resolution.
