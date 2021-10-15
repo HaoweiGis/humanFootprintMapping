@@ -13,7 +13,7 @@ A global record of annual terrestrial Human Footprint dataset from 2000 to 2018.
 
 * **Link 1**: [figshare](https://doi.org/10.6084/m9.figshare.16571064)
 
-* **Link 2**: [GEE link](users/MHW/HFP_Datasets/gHumanfootprint)
+* **Link 2**: [GEE link](https://code.earthengine.google.com/?asset=users/MHW/HFP_Datasets/ValidationPoints_hfp)
 
 
 # Environments and Dependencies
