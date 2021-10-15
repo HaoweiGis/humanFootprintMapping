@@ -25,7 +25,7 @@ A global record of annual terrestrial Human Footprint dataset from 2000 to 2018.
 # Contact Information
 If you have any query for this work, please directly contact me.
 
-Author: Haowei Mu.
+Author: Xuecao Li; Haowei Mu
 
-E-mail: blackmhw@gmail.com
+E-mail: xuecaoli@cau.edu.cn; blackmhw@gmail.com
 
