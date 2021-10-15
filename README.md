@@ -20,12 +20,13 @@ A global record of annual terrestrial Human Footprint dataset from 2000 to 2018.
 * Windows 10
 * Python 3.11
 * GDAL
+* Google Earth Engine
 
 
 # Contact Information
 If you have any query for this work, please directly contact me.
 
-Author: Xuecao Li; Haowei Mu
+Author: Haowei Mu
 
-E-mail: xuecaoli@cau.edu.cn; blackmhw@gmail.com
+E-mail: blackmhw@gmail.com
 
