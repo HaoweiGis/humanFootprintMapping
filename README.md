@@ -3,8 +3,8 @@
 
 * The annual records of the global Human Footprint from 2000 to 2018 can be accessed freely at the figshare repository (https://doi.org/10.6084/m9.figshare.16571064). All Human Footprint were mapped using the Mollweide equal-area projection at 1km resolution.
 
-<!-- ## Example
-<p align="center"><img width="100%" src="https://github.com/HaoweiGis/humanFootprintMapping/blob/main/datasets/hfp2009.png" /></p> -->
+## Example
+<p align="center"><img width="100%" src="https://github.com/HaoweiGis/humanFootprintMapping/blob/main/datasets/hfp2009.png" /></p>
 
 # Reference
 A global record of annual terrestrial Human Footprint dataset from 2000 to 2018.
