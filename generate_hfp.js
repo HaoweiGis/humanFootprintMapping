@@ -31,7 +31,8 @@ Map.addLayer(Pop2009_score,{},'Pop2009_score')
 var nt2009 = ee.Image('users/lixuecaosysu/globalNTL/stepwise_cal_DMSP/F162009v4b_webstable_lightsavg_vis')
 var nt2009 = nt2009.updateMask(nt2009.gte(6))
 var nt2009_score = ee.Image(0)
-          .where(nt2000.gte(6).and(nt2000.lt(7)), 1)
+          .where(nt2009.gte(5).and(nt2009.lt(6)), 1)
+          .where(nt2000.gte(6).and(nt2000.lt(7)), 2)
           .where(nt2000.gte(7).and(nt2000.lt(8)), 3)
           .where(nt2009.gte(8).and(nt2009.lt(9)), 4)
           .where(nt2009.gte(9).and(nt2009.lt(11)), 5)
@@ -129,4 +130,4 @@ Export.image.toAsset({
   maxPixels:1e13
 });
 
-// https://code.earthengine.google.com/87689093eeca3dd88a1a52b94de44b0e?noload=1
+// https://code.earthengine.google.com/bce7cc6c36259a5490a289630151cffb?noload=1
